@@ -11,7 +11,6 @@ echo '    fields:'
 echo '      - select: "Which team should be notified?"'
 echo '        key: "notify-team"'
 echo '        default: "Ops"'
-echo '        multiple: "True"'
 echo '        options:'
 
 # This list could be populated from anywhere! The file system, the Internet,
