@@ -22,4 +22,5 @@ echo "          - "$option""
 done
 
 echo '  - command: "notify.sh"'
+echo '    multiple: $True'
 echo '    label: ":pager:"'
